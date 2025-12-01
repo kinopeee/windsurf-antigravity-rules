@@ -71,6 +71,14 @@ The following files are available for both Windsurf (`.windsurf/rules/`) and Ant
   - **Characteristics**: Does not restrict the user's own direct instructions; only malicious commands injected via external sources are neutralized.
   - **Note**: This file has `trigger: always_on` set in its metadata, but users can still control when these rules are applied via the editor's UI settings. See the [operational guide](doc/prompt-injection-guard.md) for details on handling false positives.
 
+- `planning-mode-guard.md` **(Antigravity only)**
+  - **Role**: A guardrail to prevent problematic behaviors in Antigravity's Planning Mode.
+  - **Issues addressed**:
+    - Transitioning to the implementation phase without user instruction
+    - Responding in English even when instructed in another language (e.g., Japanese)
+  - **Contents**: In Planning Mode, only analysis and planning are performed; file modifications and command execution are prevented without explicit user approval. Also encourages responses in the user's preferred language.
+  - **Characteristics**: Placed only in `.agent/rules/`; not used in Windsurf.
+
 - `doc/custom_instruction_plan_prompt_injection.md`  
   - **Role**: Design and threat analysis document for external context injection defense.
   - **Contents**: Organizes attack categories (A-01–A-09) via external sources, corresponding defense requirements (R-01–R-08), design principles for the external data control layer, and validation/operations planning.

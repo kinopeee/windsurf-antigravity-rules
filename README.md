@@ -69,6 +69,7 @@ All rule files and workflow commands are available in both Japanese and English.
 | **pr-message-format.md** | PR message conventions / PRメッセージ規約 |
 | **test-strategy.md** | Test strategy rules / テスト戦略ルール |
 | **prompt-injection-guard.md** | Injection defense / インジェクション防御 |
+| **planning-mode-guard.md** | Prevents unintended execution in Planning Mode (Antigravity only) / 計画モードでの意図しない実行を防止（Antigravity専用） |
 
 ### ⚙️ Workflow Commands / ワークフロー
 
