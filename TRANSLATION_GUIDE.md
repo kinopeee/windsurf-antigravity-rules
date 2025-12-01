@@ -1,4 +1,4 @@
- # Custom Instructions Translation Guide
+# Custom Instructions Translation Guide
 
 ## About This Repository
 
@@ -52,7 +52,10 @@ Input:
   - Issue/PR numbers
   - Commit prefixes
   - Workflow slash commands (e.g., `/commit-only`, `/commit-push`)
-- Original text: paste the full content of `./en/.windsurf/rules/v5.md` between triple backticks:
+- Original text: paste the full content of the file you are translating between triple backticks:
+  - For **Windsurf**: `./en/.windsurf/rules/v5.md`
+  - For **Antigravity**: `./en/.agent/rules/v5.md`
+  - Note: Run a separate translation for each file
 
 ```
 [PASTE v5.md CONTENT HERE]
