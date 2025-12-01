@@ -1,6 +1,5 @@
 ---
 description: Batch flow to commit, push changes, and create a Pull Request
-executionMode: safe
 ---
 
 # Commit, Push & Create PR
