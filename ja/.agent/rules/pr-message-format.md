@@ -23,7 +23,7 @@ description: Pull Request 作成時に適用。Prefix + 日本語サマリ + 構
 
 ### フォーマット（必須）
 
-```
+```text
 <Prefix>: <サマリ（命令形/簡潔に）>
 ```
 

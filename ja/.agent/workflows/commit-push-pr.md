@@ -1,5 +1,6 @@
 ---
 description: 変更をコミット・プッシュし、Pull Requestを作成する一括フロー
+executionMode: safe
 ---
 
 # コミット・プッシュ・PR作成

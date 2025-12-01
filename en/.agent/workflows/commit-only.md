@@ -1,5 +1,6 @@
 ---
 description: Commit local changes to the current branch only (no push)
+executionMode: safe
 ---
 
 # Commit Only (Current Branch)

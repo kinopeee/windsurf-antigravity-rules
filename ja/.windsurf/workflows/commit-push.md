@@ -81,5 +81,5 @@ git push -u origin "$BRANCH"
 
 ## ノート
 
-- コミットメッセージのフォーマットやメッセージ生成の原則は、`.cursor/rules/commit-message-format.mdc` などの規約に従ってください。
+- コミットメッセージのフォーマットやメッセージ生成の原則は、`.windsurf/rules/commit-message-format.md` などの規約に従ってください。
 - 先に `git status` や `git diff` で差分を確認してからの実行を推奨します。

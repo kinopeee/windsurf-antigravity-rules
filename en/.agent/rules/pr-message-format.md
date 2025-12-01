@@ -23,7 +23,7 @@ This rule is a guideline that applies to Pull Request (PR) titles and bodies.
 
 ### Format (Required)
 
-```
+```text
 <Prefix>: <Summary (imperative/concise)>
 ```
 

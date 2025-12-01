@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-# .windsurfrules 'v5'
-=======
 # Windsurf / Antigravity Rules "v5"
->>>>>>> a498101 (refactor: .cursor/ を .agent/ と .windsurf/ に移行)
 
 This repository contains custom instruction files (`.windsurfrules`) for Windsurf. 
 It's an optimized adaptation of [cursorrules](https://github.com/kinopeee/cursorrules) for Windsurf Cascade.
 
-## Structure
-
-<<<<<<< HEAD
-The configuration contains specifications for tech stacks, API version management, and project structures. Two versions are available:
-- v1: A streamlined version with predefined settings
-- v5: A fully configurable version with extensive customization options
-
-Note: Testing has been conducted in specific environments and timeframes. Results may vary across different use cases and environments. Consider these `.windsurfrules` as templates for your specific project requirements.
-=======
 ## 🌏 About This Repository / このリポジトリについて
 
 This repository provides custom instructions optimized for **Windsurf** and **Antigravity**.  
@@ -30,7 +17,6 @@ It is a port of [cursorrules](https://github.com/kinopeee/cursorrules) adapted f
 |--------|------------|
 | **Cursor** | [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) |
 | **Windsurf / Antigravity** | This repository / このリポジトリ |
->>>>>>> a498101 (refactor: .cursor/ を .agent/ と .windsurf/ に移行)
 
 ## Changelog
 
@@ -43,27 +29,6 @@ For the latest updates and feature additions, see the [Changelog](CHANGELOG.en.m
    - For full configuration control: [v5-en/.windsurfrules](v5-en/.windsurfrules)
    - For standard implementation: [v1-en/.windsurfrules](v1-en/.windsurfrules)
 
-<<<<<<< HEAD
-2. Customize the technical specifications in v5:
-   - Select the relevant part and press Cmd+i (or Ctrl+i) to open and edit.
-   - Without reference files, update rules using language/framework-specific best practices
-   - Update specifications as your project evolves
-
-3. Custom instructions are most effective when combined with task-specific prompts and contextual reference materials.
-
-## Important Notes
-
-- Effectiveness decreases if content conflicts with the Global AI Rules. Review the Global AI Rules thoroughly.
-
-## License
-
-Released under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Support
-
-This repository does not provide support services. For Windsurf Cascade updates, follow us on X:
-[X (Twitter)](https://x.com/kinopee_ai)
-=======
 ### For Windsurf Users
 
 ```bash
@@ -184,4 +149,3 @@ Follow on X (Twitter) for AI-related updates: [@kinopee_ai](https://x.com/kinope
 ---
 
 ## Made with ❤️ for Windsurf & Antigravity users worldwide
->>>>>>> a498101 (refactor: .cursor/ を .agent/ と .windsurf/ に移行)

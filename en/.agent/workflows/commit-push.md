@@ -1,5 +1,6 @@
 ---
 description: Commit changes to the current branch and push to remote
+executionMode: safe
 ---
 
 # Commit & Push (Current Branch)
