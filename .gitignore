@@ -1,1 +1,5 @@
 .DS_Store
+
+# .agent, .windsurf 内のすべてのファイルを無視する
+/.agent/*
+/.windsurf/*
